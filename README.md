@@ -1,3 +1,3 @@
-# Streamlit_1st_Project
+# Streamlit 1st Project
 
 This is my first complete project
